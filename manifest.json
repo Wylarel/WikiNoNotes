@@ -7,7 +7,7 @@
 
     "content_scripts": [{
         "css": ["style.css"],
-        "js": ["wikinonotes.js", "jquery.min.js"],
+        "js": ["wikinonotes.js"],
         "matches": [
             "*://*/*"
         ]
