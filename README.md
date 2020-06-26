@@ -3,6 +3,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://wylarel.com/mit/)
 [![Discord](https://img.shields.io/badge/Chat-Discord-blue)](https://discord.gg/7qvmeh2)
 
+## Demo
+Demo using the chromium-based [Brave](https://brave.com/) browser and [Wikipedia](https://wikipedia.org/)
+![Demo using the chromium-based Brave browser](https://file.wylarel.com/wikinonotes.gif)
+
 ## Installation
 Because google is a poor little startup that needs money, they ask developers for money to publish their extensions. And since I'm a poor little student, I don't have any money. And since, once again, google are assholes, they don't allow extensions outside their store anymore. So the only way for you to use this extension will be to download this repo, unzip it and go to `menu>extensions>developer mode` and activate it, then click on "load unpacked extension" and choose the folder where you unzipped the files.
 ![How to load an unpacked extension](https://developer.chrome.com/static/images/get_started/load_extension.png)
