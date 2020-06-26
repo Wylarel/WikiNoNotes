@@ -12,7 +12,7 @@ In most good programs, pasting text that has been copied with the `unselectable`
 
 ## To-do
 - Blocklist / Whitelist
-- An "hidden only when the is text selected" option
+- An "hidden only when the text is selected" option
 
 ## [MIT License](https://wylarel.com/mit/)
 ```
