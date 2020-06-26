@@ -1,0 +1,23 @@
+{
+    "manifest_version": 2,
+
+    "name": "WikiNoNotes",
+    "version": "0.1.0",
+    "description": "A chrome extension that will simplify cheating (yay)",
+
+    "content_scripts": [{
+        "css": ["style.css"],
+        "js": ["wikinonotes.js", "jquery.min.js"],
+        "matches": [
+            "*://*/*"
+        ]
+    }],
+    "browser_action": {
+        "default_icon": "0.png",
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "storage",
+        "activeTab"
+    ]
+}

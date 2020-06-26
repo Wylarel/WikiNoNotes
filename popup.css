@@ -1,0 +1,129 @@
+*
+{
+}
+
+*::selection {
+    background-color: rgba(200, 200, 200, 0.3);
+}
+
+html {
+    
+}
+
+body{margin:0;}
+
+header
+{
+    position: absolute;
+    top: 0px;
+    background-color: #222;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+header h1
+{
+    color: white;
+    text-align: center;
+    padding-top: 1px;
+    padding-bottom: 3px;
+}
+
+.content {
+    margin: 25px 5px 5px 5px;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-style: none dashed dashed dashed;
+    border-width: 2px;
+    border-color: #d3d3d3;
+}
+
+p {
+    margin-bottom: 12px;
+    font-size: 15px;
+}
+
+h2 {
+    margin-bottom: 5px;
+}
+
+.slider_container {
+    position: relative;
+    padding-bottom: 8px;
+}
+
+.labels {
+    position: absolute;
+    width: 100%;
+    top: 6px;
+    pointer-events: none;
+}
+
+.label {
+    position: relative;
+    font-size: 12px;
+    color: white;
+    width: 32%;
+    display: inline-block;
+    pointer-events: none;
+    margin: 0;
+    font-weight: bold;
+}
+
+.label.w2 {
+    width: 49%;
+}
+
+.slider {
+    -webkit-appearance: none;
+    appearance: none;
+    background-color: #d3d3d3;
+    outline: none;
+    min-width: 300px;
+    border-radius: 5px;
+    transition-duration: .2s;
+}
+
+.slider:hover {
+    background-color: #c9c9c9;
+    cursor: pointer;
+    /* Cursor on hover */
+}
+
+.slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    /* Override default look */
+    appearance: none;
+    width: 33.3333%;
+    /* Set a specific slider handle width */
+    height: 25px;
+    /* Slider handle height */
+    background-color: #0390fc;
+    /* Green background */
+    cursor: pointer;
+    /* Cursor on hover */
+    border-radius: 5px;
+    transition-duration: .2s;
+}
+
+.slider.w2::-webkit-slider-thumb {
+    width: 50%;
+}
+
+.slider::-webkit-slider-thumb:hover {
+    background-color: #007cdb;
+}
+
+a {
+    color: #0390fc;
+    transition-duration: 0.1s;
+}
+
+a:hover {
+    color: #007cdb;
+    font-weight: bold;
+}

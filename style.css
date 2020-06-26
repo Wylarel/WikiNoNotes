@@ -1,0 +1,17 @@
+:root
+{
+	--wikis_selectable: initial;
+	--wikis_hidden: initial;
+}
+
+sup.reference, sup.prononciation
+{
+	-webkit-touch-callout: var(--wikis_selectable); /* iOS Safari */
+    -webkit-user-select: var(--wikis_selectable); /* Safari */
+    -khtml-user-select: var(--wikis_selectable); /* Konqueror HTML */
+    -moz-user-select: var(--wikis_selectable); /* Old versions of Firefox */
+    -ms-user-select: var(--wikis_selectable); /* Internet Explorer/Edge */
+    user-select: var(--wikis_selectable);
+
+    display: var(--wikis_hidden);
+}
