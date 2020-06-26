@@ -12,7 +12,7 @@ Because google is a poor little startup that needs money, they ask developers fo
 ![How to load an unpacked extension](https://developer.chrome.com/static/images/get_started/load_extension.png)
 
 ## Usage
-In most good software, pasting text that has been copied with the `unselectable` option will not paste notes. However, in others, such as the Office suite, it won't work. You must therefore use the `hidden` option before copying the text.
+In most good software, pasting text that has been copied with the `unselectable` option will not paste notes and references. However, in others, such as the Office suite, it won't work. You must therefore use the `hidden` option before copying the text.
 
 ## To-do
 - Blocklist / Whitelist
