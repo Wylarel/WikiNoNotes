@@ -9,8 +9,8 @@ Demo using the chromium-based [Brave](https://brave.com/) browser and [Wikipedia
 ![Demo using the chromium-based Brave browser](https://file.wylarel.com/wikinonotes.gif)
 
 ## Installation
-### Install via the Chrome Web Store (Coming Soon)
-[![Download](https://img.shields.io/badge/Download-Chrome%20Web%20Store-orange)](http://bit.ly/comingsoonplaceholder)
+### Install via the Chrome Web Store
+[![Download](https://img.shields.io/badge/Download-Chrome%20Web%20Store-orange)](https://github.com/Wylarel/WikiNoNotes)
 
 ### Install the unpacked extension
 Download this repo, unzip it and go to `menu>extensions>developer mode` and activate it, then click on "load unpacked extension" and choose the folder where you unzipped the files.
