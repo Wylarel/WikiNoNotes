@@ -2,7 +2,7 @@
 ## An extension to make inline notes and references unselectables or hidden
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://wylarel.com/mit/)
 [![Discord](https://img.shields.io/badge/Chat-Discord-blue)](https://discord.gg/7qvmeh2)
-[![Download](https://img.shields.io/badge/Download-Chrome%20Web%20Store-orange)](https://github.com/Wylarel/WikiNoNotes)
+[![Download](https://img.shields.io/badge/Download-Chrome%20Web%20Store-orange)](https://chrome.google.com/webstore/detail/wikinonotes/akgdefbklbfibpnlkkfbafmjgpdodcnk)
 
 ## Demo
 Demo using the chromium-based [Brave](https://brave.com/) browser and [Wikipedia](https://wikipedia.org/)
@@ -10,7 +10,7 @@ Demo using the chromium-based [Brave](https://brave.com/) browser and [Wikipedia
 
 ## Installation
 ### Install via the Chrome Web Store
-[![Download](https://img.shields.io/badge/Download-Chrome%20Web%20Store-orange)](https://github.com/Wylarel/WikiNoNotes)
+[![Download](https://img.shields.io/badge/Download-Chrome%20Web%20Store-orange)](https://chrome.google.com/webstore/detail/wikinonotes/akgdefbklbfibpnlkkfbafmjgpdodcnk)
 
 ### Install the unpacked extension
 Download this repo, unzip it and go to `menu>extensions>developer mode` and activate it, then click on "load unpacked extension" and choose the folder where you unzipped the files.
