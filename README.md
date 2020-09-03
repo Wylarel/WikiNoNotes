@@ -2,7 +2,7 @@
 ## An extension to make inline notes and references unselectables or hidden
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://wylarel.com/mit/)
 [![Discord](https://img.shields.io/badge/Chat-Discord-blue)](https://discord.gg/7qvmeh2)
-[![Download](https://img.shields.io/badge/Download-Chrome%20Web%20Store-orange)](http://bit.ly/comingsoonplaceholder)
+[![Download](https://img.shields.io/badge/Download-Chrome%20Web%20Store-orange)](https://github.com/Wylarel/WikiNoNotes)
 
 ## Demo
 Demo using the chromium-based [Brave](https://brave.com/) browser and [Wikipedia](https://wikipedia.org/)
